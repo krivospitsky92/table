@@ -1,0 +1,11 @@
+* {
+  box-sizing: border-box;
+}
+
+table {
+  border: 5px solid black;
+
+}
+#table > thead:nth-child(2){
+  border: 5px solid black;
+}
